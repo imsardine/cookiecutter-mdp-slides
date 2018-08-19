@@ -1,0 +1,7 @@
+{
+  "topic": "A Good Idea",
+  "topic_slug": "{{ cookiecutter.topic|lower|replace(' ', '_')|replace('-', '_') }}",
+  "author_name": "Spider-Man",
+  "author_email": "spiderman@gmail.com",
+  "number_of_slides": "15"
+}
